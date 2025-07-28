@@ -9,7 +9,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 This project is designed using the Medallion Architecture, which separates the pipeline into Bronze, Silver, and Gold layers:
 
-![Data Warehouse Architecture](docs/data_architecture.png)
+![Data Warehouse Architecture](docs/data_architecture.jpg)
 
 - **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 - **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
