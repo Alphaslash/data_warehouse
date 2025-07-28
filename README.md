@@ -108,3 +108,7 @@ data-warehouse-project/
 ## 🤝 Let’s Connect
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/giteshgarg08/)
+
+🏷️ Tags  
+#DataWarehouse #ETL #DataEngineering #MedallionArchitecture #DataPipeline #Analytics #BusinessIntelligence #BigData #SQL #DataModeling #PortfolioProject #DataManagement #RetailData
+
