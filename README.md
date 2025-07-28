@@ -1,9 +1,6 @@
-# 📊 Sales Data Warehouse & Analytics Project
+# 🏗️ Sales Data Warehouse & Analytics Project
 
-![Screenshot](docs/data_architecture.png)
-
-Welcome to my Sales Data Warehouse and Analytics portfolio project!  
-This repository showcases my implementation of a complete data warehouse pipeline, from raw data ingestion to business-ready insights and reporting.
+![Data Warehouse Architecture](docs/data_architecture.png)
 
 ---
 
@@ -11,19 +8,19 @@ This repository showcases my implementation of a complete data warehouse pipelin
 
 This project is designed using the Medallion Architecture, which separates the pipeline into Bronze, Silver, and Gold layers:
 
-- **Bronze Layer**: Stores raw data as-is (imported from ERP & CRM CSV files).
-- **Silver Layer**: Applies data cleaning, standardization, and transformation.
-- **Gold Layer**: Business-ready star schema model optimized for analytics and reporting.
+- **Bronze Layer:** Stores raw data as-is (imported from ERP & CRM CSV files).
+- **Silver Layer:** Applies data cleaning, standardization, and transformation.
+- **Gold Layer:** Business-ready star schema model optimized for analytics and reporting.
 
 ---
 
 ## 📖 Project Highlights
 
-- **Data Architecture**: Layered data pipeline using Medallion Architecture.
-- **ETL Pipelines**: Created robust ETL processes using T-SQL to move data through each layer.
-- **Data Modeling**: Designed star schema with fact and dimension tables for optimized querying.
-- **Analytics**: Generated insights on sales trends, customer behavior, and product performance.
-- **Diagramming**: Designed architecture and ETL flow diagrams using Draw.io.
+- **Data Architecture:** Layered data pipeline using Medallion Architecture.
+- **ETL Pipelines:** Created robust ETL processes using T-SQL to move data through each layer.
+- **Data Modeling:** Designed star schema with fact and dimension tables for optimized querying.
+- **Analytics:** Generated insights on sales trends, customer behavior, and product performance.
+- **Diagramming:** Designed architecture and ETL flow diagrams using Draw.io.
 
 ---
 
@@ -52,15 +49,18 @@ This project is designed using the Medallion Architecture, which separates the p
 ## 🚀 Project Goals
 
 ### Data Engineering
-- Consolidate data from ERP and CRM systems into a centralized warehouse.
-- Ensure data quality through cleaning and transformation processes.
+
+- Consolidate data from ERP and CRM systems into a centralized warehouse.  
+- Ensure data quality through cleaning and transformation processes.  
 - Build a star schema model for structured reporting.
 
 ### Analytics
-- Use SQL to analyze:
-  - Customer Behavior
-  - Product Performance
-  - Sales Trends
+
+Use SQL to analyze:
+
+- Customer Behavior  
+- Product Performance  
+- Sales Trends  
 
 These reports are useful for strategic decision-making by business stakeholders.
 
@@ -101,13 +101,4 @@ data-warehouse-sales/
 
 ## 🤝 Let’s Connect
 
-<a ## 🤝 Let’s Connect
-
 [Connect with me on LinkedIn](https://www.linkedin.com/in/giteshgarg08/)
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
-
----
-
-
-
